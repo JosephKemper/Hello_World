@@ -16,14 +16,14 @@
 * Python version 3.11 64-bit
 * Git/GitHub
 
-{Describe the programming language that you used}
-
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 * [GitHub](https://github.com/)
 * [Git Download](https://git-scm.com/download)
 * [Visual Studio Code Download](https://code.visualstudio.com/download)
+* [Upload YouTube videos](https://support.google.com/youtube/answer/57407)
+* [Python Official Documentation](https://docs.python.org/3/)
+* [Python 3.11 Reference Manual](https://docs.python.org/3.11/library/index.html)
 * [Web Site Name](http://url.link.goes.here)
 * [Web Site Name](http://url.link.goes.here)
