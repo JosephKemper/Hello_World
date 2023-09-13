@@ -6,7 +6,7 @@ My plan is to use the next 14 weeks to create 6 projects for my software portfol
 
 * Task Manager (console based)
 * Health and Fitness App
-* Cloud Databases - Personal Finance Manager
+* Personal Finance Manager
 * Stock Market Analysis
 * Weather Radar Map
 * Student Records
