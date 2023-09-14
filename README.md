@@ -11,7 +11,7 @@ My plan is to use the next 14 weeks to create 6 projects for my software portfol
 * Weather Radar Map
 * Student Records
 
-[Software Demo Video](http://youtube.link.goes.here)
+You can view a demo of the project and a explanation of my future goals for this project [by following this link](https://youtu.be/HAxarKS0oGs)
 
 # Development Environment
 
