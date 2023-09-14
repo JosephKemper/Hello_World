@@ -1,6 +1,6 @@
 # Overview
 
-The goal for this simple Hello World project is primarily to develop strong habits for creating read me files for my future projects as I officially start creating my software portfolio. I also want to have something to use to demonstrate basic functionality like Visual Studio Code, Github, and Python operation.
+The goal for this simple Hello World project is primarily to create a template to use with my future projects as I officially start creating my software portfolio. I also want to have something to use to demonstrate basic functionality like Visual Studio Code, Github, and Python operation.
 
 My plan is to use the next 14 weeks to create 6 projects for my software portfolio, and this simple Hello World program is the template I will use for each of those projects. My goal for each of the projects is to create a minimum viable product for each project, and then after I have gotten that produced, I will add more as time permits. The projects I will complete are as follows
 
@@ -10,8 +10,6 @@ My plan is to use the next 14 weeks to create 6 projects for my software portfol
 * Stock Market Analysis
 * Weather Radar Map
 * Student Records
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
 [Software Demo Video](http://youtube.link.goes.here)
 
