@@ -4,12 +4,12 @@ The goal for this simple Hello World project is primarily to create a template t
 
 My plan is to use the next 14 weeks to create 6 projects for my software portfolio, and this simple Hello World program is the template I will use for each of those projects. My goal for each of the projects is to create a minimum viable product for each project, and then after I have gotten that produced, I will add more as time permits. The projects I will complete are as follows
 
-* Task Manager (console based)
-* Health and Fitness App
-* Personal Finance Manager
-* Stock Market Analysis
-* Weather Radar Map
-* Student Records
+* [Task Manager (console based)](https://github.com/JosephKemper/Task-Manager)
+* [Health and Fitness App](https://github.com/JosephKemper/KotlinFitnessApp)
+* [Personal Finance Manager](https://github.com/JosephKemper/FirebaseFinanceApp)
+* [Stock Market Analysis](https://github.com/JosephKemper/StockmarketDataAnalysis)
+* [Weather Radar Map](https://github.com/JosephKemper/WeatherMap)
+* [Student Records](https://github.com/JosephKemper/SQLStudentDataBase)
 
 You can view a demo of the project and a explanation of my future goals for this project [by following this link](https://youtu.be/HAxarKS0oGs)
 
